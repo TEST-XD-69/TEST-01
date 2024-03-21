@@ -1,2 +1,2 @@
-improt os
+import os
 import TEST
